@@ -14,7 +14,7 @@ components:
       - {data_key: column_4, id: JAFJCR, title: Column 4}
       - {data_key: column_5, id: UIKFNZ, title: Column 5}
       - {data_key: column_6, id: BXIRSC, title: Column 6}
-      rows_per_page: 5
+      rows_per_page: 10
       spacing_above: none
       spacing_below: none
     type: DataGrid
